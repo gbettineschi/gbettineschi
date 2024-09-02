@@ -4,4 +4,4 @@ My name is Gabriele. I study Mathematical and Computing Sciences for AI at Bocco
 I'm in love with doing.
 
 ## Something else about me
-Visit my website [here](https://gabrielebettineschi.com/).
+Visit my website [here](https://gabrielebettineschi.com/). Contact me at [main@gabrielebettineschi.com](mailto:main@gabrielebettineschi.com).
