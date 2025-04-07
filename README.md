@@ -1,3 +1,2 @@
-# Gabriele Bettineschi
-In love with doing. Mathematics, AI, and rowing.
+## In love with doing
 [gabrielebettineschi.com](https://gabrielebettineschi.com)
